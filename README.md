@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danny-Rand
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Power Apps
 - 📫 How to reach me: danyvesmiguela@gmail.com
 
 <!---
